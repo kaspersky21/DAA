@@ -1,0 +1,10 @@
+deklarasi
+var luas, alas, tinggi
+
+alas ← panjang
+alas ← 5
+tinggi ← 3
+
+luas = alas * tinggi
+
+write(luas)

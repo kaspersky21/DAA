@@ -1,0 +1,12 @@
+step 1 pindahkan manggis ke piring 3 dan piring 1 null
+step 2 pidahkan pisang ke piring 1 dan piring 2 null
+step 3 pindahkan manggis ke piring 2 dan piring 3 null
+
+p1 = mg
+p2 = ps
+p3 = null
+
+define swap(p1,p2)
+p3 = p1
+p1 = p2
+p2 = p3

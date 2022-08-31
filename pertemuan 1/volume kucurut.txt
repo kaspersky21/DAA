@@ -1,0 +1,22 @@
+algoritma
+
+step 1 deklarasikan volume, pi, diameter, jari-jari, tinggi
+step 2 masukkan pi = 3.14, diameter = 5, tinggi = 4
+step 3 ubah diameter menjadi jari-jari dengan cara dibagi 2
+step 4 mengitung volume pi * jari-jari**2 * tinggi / 3
+
+deklarasi
+
+var volume, pi, diameter, jari-jari, tinggi
+
+pi ← 3.14
+
+diameter ← 5
+
+tinggi ← 4
+
+jari jari ← diameter / 2
+
+volume = pi * r**2 * t / 3
+
+write(volume)

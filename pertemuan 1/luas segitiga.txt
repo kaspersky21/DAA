@@ -1,0 +1,11 @@
+step 1 mendeklarasikan luas, alas, dan tinggi 
+step 2 masukkan akas = 25, tinggi = 30
+step 3 menghitung luas = 1/2 x alas x tinggi
+step 4 menampilkan luas
+
+deklarasi
+var luas, alas, tinggi
+alas ← 25
+tinggi ← 30
+luas = 1/2 x alas x tinggi 
+write(luas)
